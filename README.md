@@ -1,6 +1,5 @@
 # Data Engineering Job Vacancies ETL Pipeline
 
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Job%20Vacancies-blue)
 
 This project implements a robust Extract, Transform, and Load (ETL) pipeline that extracts, processes, and stores data engineering job vacancies in Ontario, Canada. The pipeline is designed to keep hiring managers, recruiters, and data enthusiasts informed about the latest job opportunities in the data engineering domain.
 
@@ -56,5 +55,5 @@ Contributions are welcomed to enhance and extend this ETL pipeline further. Feel
 
 ---
 
-Byron's Note: Make sure to replace [YOUR API KEY] in the `get_data_from_api` function with your actual RapidAPI key. Additionally, fill in the Requirements section with the necessary versions of the required libraries and software. Feel free to add your GitHub profile link, and if you have any additional credentials or accolades, you can include them as well. Make sure the code is well-documented and adheres to best practices for readability and maintainability.
+Anungar's Note: Make sure to replace [YOUR API KEY] in the `get_data_from_api` function with your actual RapidAPI key. Additionally, fill in the Requirements section with the necessary versions of the required libraries and software. Feel free to add your GitHub profile link, and if you have any additional credentials or accolades, you can include them as well. Make sure the code is well-documented and adheres to best practices for readability and maintainability.
 
