@@ -50,9 +50,6 @@ The Data Engineering Job Vacancies ETL Pipeline aims to automate the process of 
 
 Contributions are welcomed to enhance and extend this ETL pipeline further. Feel free to submit pull requests, raise issues, or provide feedback to help us improve the project.
 
-
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Job%20Vacancies-blue)
-
 ---
 
 Anungar's Note: Make sure to replace [YOUR API KEY] in the `get_data_from_api` function with your actual RapidAPI key. Additionally, fill in the Requirements section with the necessary versions of the required libraries and software. Feel free to add your GitHub profile link, and if you have any additional credentials or accolades, you can include them as well. Make sure the code is well-documented and adheres to best practices for readability and maintainability.
