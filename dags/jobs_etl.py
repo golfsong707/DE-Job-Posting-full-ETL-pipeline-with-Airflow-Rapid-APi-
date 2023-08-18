@@ -38,7 +38,7 @@ def get_data_from_api():
     querystring = {"query":"Data Engineer in Ontario, Canada","page":"1","num_pages":"1","date_posted":"month"}
 
     headers = {
-	"X-RapidAPI-Key": [YOUR_API_KEY],
+	"X-RapidAPI-Key": [MyPassword],
 	"X-RapidAPI-Host": "jsearch.p.rapidapi.com"
     }
     response = requests.get(url, headers=headers, params=querystring)
